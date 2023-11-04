@@ -1,0 +1,7 @@
+
+*.csproj
+*.unityproj
+*.sln
+*.tmp
+*.user
+*.userprefs
